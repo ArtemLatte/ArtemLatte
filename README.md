@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding like C#, C++ and Python
 - 🌱 I’m currently learning DataBase
 - 💞️ I’m looking to collaborate on nothin, sorry)
-- 📫 How to reach me in vk
+- 📫 How to reach me? In vk!
 
 <!---
 ArtemLatte/ArtemLatte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
